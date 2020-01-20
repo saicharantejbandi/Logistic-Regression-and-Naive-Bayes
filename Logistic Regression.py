@@ -11,7 +11,7 @@ import numpy as np
 
 import scipy.io
 
-
+print(1)
 
 
 Numpyfile= scipy.io.loadmat("mnist_data.mat") 

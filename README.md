@@ -3,7 +3,7 @@
   a. Naive Bayes
   b. Logistic Regressions
   
- ##Naive Bayes 
+ ## Naive Bayes 
 Two features are extracted from each image 
   1. Standard Deviation of all pixel values
   2. Mean of all Pixel Values

@@ -16,7 +16,7 @@ Similarly for each class the probability is calculated and assigned a class whic
 
 The Accuracy obtained from Naive Bayes is 62.73%.
 
-##Logistic Regression
+## Logistic Regression
 
 As already the features have been extracted, the features can be used to implement logistic regression. To implement logistic regression we use sigmoid/logistic function on the linear regression hypothesis to classify the inputs either 0(digit 7) or 1 (digit 8)
 
@@ -30,8 +30,8 @@ The W can be calculated Conditional by Log-Likelihood function. As we know this 
 The accuracy obtained from Logistic Regression is 84.90%.
 The indepth explanation and formulae can be found in the report.pdf.
 
-#The code for Naive Bayes implementation is in Naive Bayes.py
-#The code for Logistsic Regression implementation is in Logistsic Regression.py
+# The code for Naive Bayes implementation is in Naive Bayes.py
+# The code for Logistsic Regression implementation is in Logistsic Regression.py
 
 
 

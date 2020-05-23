@@ -29,6 +29,7 @@ The W can be calculated Conditional by Log-Likelihood function. As we know this 
 
 The accuracy obtained from Logistic Regression is 84.90%.
 The indepth explanation and formulae can be found in the report.pdf.
+The data  is at mnist_data.mat
 
 # The code for Naive Bayes implementation is in Naive Bayes.py
 # The code for Logistsic Regression implementation is in Logistsic Regression.py
